@@ -4,9 +4,8 @@ This file1 has been rightly updated.
 I am updating this from Feature 1 branch
 Hope feature 1 looks good.
 UPDATED FROM FEATURE1
-<<<<<<< HEAD
 Again updated from Feature1
 Again updated from Feature2 same time
-=======
 UPDATED FROM FEATURE1
->>>>>>> feature1
+Again updated from Feature1
+Updating from Feature2
